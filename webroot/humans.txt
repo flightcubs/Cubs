@@ -1,0 +1,1 @@
+Cubs is a PHP-boilerplate/framework for small websites. Aircraft was built by Filip Hedberg, heavily based on Anax by Mikael Roos (me@mikaelroos.se). It was made as part of a web programming course. The original Anax can be found at GitHub: https://github.com/mosbth/Anax-base.
